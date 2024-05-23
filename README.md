@@ -46,3 +46,7 @@ O objetivo deste conjunto de testes é assegurar que a função `ConversorTemper
 
 3. **Assert**:
    - Em `xUnit`, a verificação é feita com `Assert.Equal`, em `NUnit` com `Assert.AreEqual`, e em `MSTest` também com `Assert.AreEqual`.
+
+   ###
+
+   ![alt text](image-3.png)
