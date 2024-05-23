@@ -19,3 +19,5 @@ namespace Temperatura.Testes
         }
     }
 }
+
+78, 
