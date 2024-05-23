@@ -6,12 +6,13 @@ Teste conex�o visual studio com github
 
 ## xUnit --> .NET 5 + Unit Testing + xUnit + Conversão de Temperaturas
 
-![alt text](image.png)
+![alt text](/assets_images/xUnit.png)
+
 O objetivo deste conjunto de testes é garantir que a função `ConversorTemperatura.FahrenheitParaCelsius` converta corretamente temperaturas de Fahrenheit para Celsius. Cada caso de teste fornece uma entrada de temperatura em Fahrenheit e verifica se o resultado da conversão corresponde ao valor esperado em Celsius. Isso ajuda a assegurar a precisão e a confiabilidade do método de conversão em diferentes cenários.
 
 ## NUnit --> .NET 5 + Unit Testing + NUnit + Conversão de Temperaturas
 
-![alt text](image-1.png)
+![alt text](/assets_images/nUnit.png)
 
 O objetivo deste conjunto de testes é assegurar que a função `ConversorTemperatura.FahrenheitParaCelsius` converte corretamente as temperaturas de Fahrenheit para Celsius. Cada caso de teste (`TestCase`) fornece uma temperatura de entrada em Fahrenheit e verifica se o resultado da conversão corresponde ao valor esperado em Celsius. Isso ajuda a garantir a precisão e a confiabilidade do método de conversão em diferentes cenários.
 
@@ -30,7 +31,7 @@ O objetivo deste conjunto de testes é assegurar que a função `ConversorTemper
 
 ## MSTest --> .NET 5 + Unit Testing + MSTest + Conversão de Temperaturas
 
-![alt text](image-2.png)
+![alt text](/assets_images/msTest.png)
 
 O objetivo deste conjunto de testes é assegurar que a função `ConversorTemperatura.FahrenheitParaCelsius` converte corretamente as temperaturas de Fahrenheit para Celsius. Cada caso de teste (`DataRow`) fornece uma temperatura de entrada em Fahrenheit e verifica se o resultado da conversão corresponde ao valor esperado em Celsius. Isso ajuda a garantir a precisão e a confiabilidade do método de conversão em diferentes cenários.
 
@@ -47,6 +48,8 @@ O objetivo deste conjunto de testes é assegurar que a função `ConversorTemper
 3. **Assert**:
    - Em `xUnit`, a verificação é feita com `Assert.Equal`, em `NUnit` com `Assert.AreEqual`, e em `MSTest` também com `Assert.AreEqual`.
 
-   ###
+   ### Observações
 
-   ![alt text](image-3.png)
+   ![alt text](/assets_images/gitignore.png)
+
+   Foi necessária a criação de um arquivo `.gitignore` para a pasta `.vs`, que é uma pasta de configuração gerada pelo Visual Studio que não deveria ser comitada no repositório Git.
