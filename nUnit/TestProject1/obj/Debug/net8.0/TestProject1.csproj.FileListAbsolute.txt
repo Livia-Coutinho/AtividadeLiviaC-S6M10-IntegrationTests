@@ -1,0 +1,6 @@
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.AssemblyInfo.cs
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

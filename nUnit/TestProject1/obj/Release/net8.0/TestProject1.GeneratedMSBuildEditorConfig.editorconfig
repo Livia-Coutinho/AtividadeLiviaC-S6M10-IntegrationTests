@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestProject1
-build_property.ProjectDir = C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\TestProject1\TestProject1\
+build_property.ProjectDir = C:\Users\Inteli\Desktop\GitHub (Módulo 10)\AtividadeLiviaC-S6M10-IntegrationTests\nUnit\TestProject1\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
